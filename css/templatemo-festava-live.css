@@ -543,7 +543,7 @@ strong {
 /*---------------------------------------
   TICKET               
 -----------------------------------------*/
-.ticket-section {
+.privacypolicy-section {
   background-image: url('../images/nicholas-green-unsplash-blur.jpg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -551,19 +551,19 @@ strong {
   padding-top: 130px;
 }
 
-.ticket-form {
+.privacypolicy-form {
   background: var(--white-color);
   border-radius: var(--border-radius-medium);
   padding: 50px;
 }
 
-.ticket-form .form-check {
+.privacypolicy-form .form-check {
   position: relative;
   min-height: 52px;
   padding-left: 35px;
 }
 
-.ticket-form .form-check .form-check-label {
+.privacypolicy-form .form-check .form-check-label {
   display: block;
   position: absolute;
   top: 50%;
@@ -975,11 +975,11 @@ strong {
     padding: 25px;
   }
 
-  .ticket-section {
+  .privacypolicy-section {
     padding-top: 130px;
   }
 
-  .ticket-form {
+  .privacypolicy-form {
     padding: 30px;
   }
 }
